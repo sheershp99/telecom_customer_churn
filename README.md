@@ -6,7 +6,7 @@ This data science project is based on the customer churn data of a fictional tel
 ## Dataset Link
 [Maven Analytics Telecom Customer Churn Dataset](https://mavenanalytics.io/data-playground)
 
-## Libraries Used
+## Python Libraries Used
 1. Pandas
 2. Matplotlib
 3. Seaborn
